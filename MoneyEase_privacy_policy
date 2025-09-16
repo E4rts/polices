@@ -1,0 +1,38 @@
+Privacy Policy for MoneyEase
+Last updated: September 16, 2025
+Overview
+MoneyEase (“we”, “our”, or “us”) is a personal finance app that helps you track income, expenses, reminders, and insights locally on your device. This Privacy Policy explains what data we collect, how we use it, and your choices.
+What We Collect
+Profile data: your name and optional profile fields you enter.
+Financial data: transactions (income/expenses, categories, notes, currency), reminders and their schedule, and recent currency selections.
+Device data: none beyond what is required for notifications and local storage.
+Network requests: we request foreign exchange rates from a third-party API to convert currencies.
+How We Store Data
+Local storage only: Your profile, transactions, reminders, theme preferences, and recent currencies are stored on your device using local storage mechanisms (e.g., SharedPreferences). We do not host or maintain a cloud database for your personal financial data.
+Caching: Exchange rates are cached locally for performance (typically up to 1 hour).
+How We Use Data
+Provide core features: show analytics, charts, insights, reminders, and currency conversions.
+Improve UX: remember your recent currencies and theme preference.
+Notifications: schedule local notifications for reminders you create.
+Third-Party Services
+Exchange rates: The app fetches FX rates from a public exchange rate service. Only the base request for rates is made; we do not send your personal data or transactions to that service.
+Operating system services: Local notifications and exact alarm permissions are requested from your device OS to deliver reminders.
+Permissions
+Notifications: to send reminder alerts at scheduled times.
+Exact alarms (Android 12+): to deliver reminders at precise times where supported.
+You can change these permissions in your device settings at any time. Some features may not work without them.
+Data Sharing
+We do not sell, trade, or rent your personal information. We do not share your financial data with third parties. Network requests for exchange rates do not include your personal financial data.
+Data Security
+Data is stored locally on your device. Please protect your device with a passcode/biometric lock. If you share, back up, or restore your device, your app data may be included in those processes according to your OS settings.
+Data Retention and Deletion
+Retention: Data remains on your device until you delete it or uninstall the app.
+Deletion: You can reset all app data from Settings > Profile & Settings > Reset app data, or uninstall the app to remove local data.
+Children’s Privacy
+MoneyEase is not directed to children under 13 (or the minimum age in your jurisdiction). If you believe a child has provided personal data, please remove it using the in-app reset or by uninstalling the app.
+International Data Transfers
+We do not transfer your personal financial data to our servers. Exchange rate requests are standard HTTPS calls to a third-party API and may be routed internationally by your network provider.
+Changes to This Policy
+We may update this Privacy Policy from time to time. We will update the “Last updated” date and may notify you in-app. Your continued use of MoneyEase constitutes acceptance of the updated policy.
+Contact Us
+If you have questions or requests about privacy, please contact: abdrhmanbnyahya1@gmail.com.
