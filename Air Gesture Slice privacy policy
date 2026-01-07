@@ -1,0 +1,104 @@
+# Privacy Policy for Air Gesture Slice by ZProjection software
+
+**Last Updated: January 8, 2026**
+
+## Introduction
+
+This Privacy Policy describes how Air Gesture Slice - Hand Tracking Edition ("we", "our", or "the app") handles information when you use our mobile application. We are committed to protecting your privacy and being transparent about our data practices.
+
+## Information We Collect
+
+### Camera Access
+- **Purpose**: The app uses your device's camera exclusively for real-time hand gesture tracking to control gameplay
+- **Processing**: All camera data is processed locally on your device in real-time
+- **Storage**: Camera images and video are NOT stored, saved, or transmitted anywhere
+- **Usage**: Camera access is only active during gameplay and stops immediately when you exit the game
+
+### Local Storage
+The app stores the following data locally on your device:
+- **Game Settings**: Sound effects preferences (on/off) and hand gesture sensitivity level
+- **Game Progress**: Unlocked adventure mode levels
+- **High Scores**: Your personal best scores
+
+This data is stored using SharedPreferences and remains on your device only.
+
+## Information We Do NOT Collect
+
+We want to be clear about what we don't do:
+- ❌ We do NOT collect personal information (name, email, phone number, etc.)
+- ❌ We do NOT record or store camera images or video
+- ❌ We do NOT track your location
+- ❌ We do NOT collect device identifiers for tracking purposes
+- ❌ We do NOT share any data with third parties
+- ❌ We do NOT use analytics or advertising services
+- ❌ We do NOT transmit any gameplay data to external servers
+
+## How We Use Information
+
+The limited data we store locally is used solely to:
+- Remember your game settings and preferences
+- Track your adventure mode progress
+- Provide hand gesture controls during gameplay
+- Enhance your gaming experience
+
+## Data Security
+
+- All data is stored locally on your device
+- Camera processing happens in real-time on your device
+- No data is transmitted over the internet
+- Your game data is protected by your device's security features
+
+## Permissions Explained
+
+### Camera Permission (Required)
+- **Why we need it**: To detect hand gestures for slicing fruits in the game
+- **How we use it**: Real-time hand tracking using MediaPipe technology
+- **What we don't do**: We never record, save, or transmit camera data
+
+### Internet Permission (Technical)
+- **Why it's listed**: Required by the WebView component used to render the game
+- **What we don't do**: The app does NOT connect to the internet or transmit any data
+- **Note**: This is a technical requirement only; no actual internet connection is used for gameplay
+
+## Children's Privacy
+
+Our app does not knowingly collect any personal information from children or adults. The game is designed to be safe for all ages, with all processing happening locally on the device.
+
+## Third-Party Services
+
+This app does NOT integrate any third-party services, including:
+- No advertising networks
+- No analytics services
+- No social media integrations
+- No cloud storage services
+- No payment processors
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected in the app update notes and the "Last Updated" date at the top of this policy.
+
+## Data Retention
+
+- Game settings and progress are stored until you uninstall the app
+- Camera data is never stored and is discarded immediately after processing
+- You can clear all local data by uninstalling the app
+
+## Your Rights
+
+You have the right to:
+- Delete all app data by uninstalling the application
+- Deny camera permission (though this will prevent gameplay)
+- Review this privacy policy at any time
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+**h.benyahia.snv@lagh-univ.dz**
+
+
+---
+
+## Summary
+
+**In simple terms**: This game uses your camera only for hand tracking during gameplay. Nothing is recorded, stored, or sent anywhere. Your game settings and progress are saved only on your device. We respect your privacy completely.
