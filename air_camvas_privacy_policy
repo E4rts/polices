@@ -1,0 +1,221 @@
+# Privacy Policy
+
+**Last Updated: January 29, 2026**
+
+## Introduction
+
+Air Canvas ("we," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our hand gesture-based drawing application.
+
+## TL;DR - Quick Summary
+
+✅ **We DO:**
+- Process camera feed locally for hand gesture detection
+- Store your drawings locally on your device only
+- Use device storage for app functionality
+
+❌ **We DO NOT:**
+- Record or save camera video/images
+- Collect personal information
+- Transmit data to external servers
+- Track your usage or behavior
+- Share data with third parties
+- Use analytics or advertising
+
+## Information We Collect
+
+### We Collect ZERO Personal Information
+
+Air Canvas operates entirely on your device and does not collect, store, or transmit any personal information.
+
+### Local Data Storage
+
+**Drawing Data:**
+- Your artwork is saved locally on your device using device storage (SharedPreferences)
+- Drawings include: image data, creation date, and thumbnail
+- Maximum 50 drawings stored automatically
+- You have full control to delete drawings at any time
+
+**App Preferences:**
+- Gesture guide visibility preference (show/hide)
+- Stored locally on your device only
+
+## Camera Usage
+
+### How We Use Your Camera
+
+**Real-Time Processing Only:**
+- Camera is used exclusively for hand gesture detection
+- Video feed is processed in real-time by MediaPipe (Google's hand tracking library)
+- Processing happens entirely on your device
+- **No recording, saving, or transmission of camera data**
+
+**What We See:**
+- Hand landmark positions (coordinate points)
+- Gesture classifications (index finger, pinch, etc.)
+- **We do NOT see or store actual images or video**
+
+**Camera Permission:**
+- Required for the App to function
+- You can revoke permission anytime in device settings
+- App will not function without camera access
+- Permission prompt explains usage clearly
+
+## Data Storage and Security
+
+### Local Storage Only
+
+- All data remains on your device
+- No cloud storage or external servers
+- No data synchronization across devices
+- No backups to external services
+
+### Data Security
+
+- Your drawings are as secure as your device
+- We recommend using device lock/encryption
+- Uninstalling the App removes all stored data
+- No data breach risk (no external transmission)
+
+## Third-Party Services
+
+### Flutter Framework
+
+- Used for app development
+- Does not collect user data
+- Open-source framework by Google
+
+## Children's Privacy
+
+- Air Canvas is suitable for users 13 years and older
+- We do not knowingly collect data from children
+- No personal information is collected from any users
+- Parents can supervise app usage
+
+## Your Rights and Control
+
+### You Have Full Control:
+
+✅ **Access:** View all your drawings in the app gallery
+✅ **Delete:** Long-press any drawing to delete it
+✅ **Export:** Save drawings to device gallery (via screenshot)
+✅ **Revoke:** Remove camera permission anytime
+✅ **Uninstall:** Complete data removal by uninstalling
+
+### Data Retention
+
+- Drawings stored until you delete them or uninstall
+- Maximum 50 drawings (oldest auto-deleted)
+- No data retained after app uninstallation
+
+## Permissions Explained
+
+### Required Permissions:
+
+**Camera Permission:**
+- **Purpose:** Hand gesture detection
+- **Usage:** Real-time processing only
+- **Storage:** No recording or saving
+- **Required:** Yes (core functionality)
+
+**Storage Permission:**
+- **Purpose:** Save drawings locally
+- **Usage:** Store artwork on device
+- **Access:** App data only
+- **Required:** Yes (save functionality)
+
+## Data Sharing and Disclosure
+
+### We Do NOT Share Data
+
+- No data is transmitted from your device
+- No third-party data sharing
+- No advertising partners
+- No data brokers
+- No government requests (no data to provide)
+
+### Legal Compliance
+
+- We comply with applicable privacy laws (GDPR, CCPA, etc.)
+- No data collection means minimal compliance requirements
+- We cannot provide data we don't have
+
+## International Users
+
+- App works worldwide
+- All processing happens locally on your device
+- No cross-border data transfers
+- No regional data storage concerns
+
+## Changes to Privacy Policy
+
+- We may update this policy to reflect app changes
+- Material changes will be communicated through app updates
+- Continued use after changes constitutes acceptance
+- Check this policy periodically for updates
+
+## Data Breach Notification
+
+- No external data storage means no breach risk
+- Your device security is your responsibility
+- We cannot be breached (no servers or databases)
+
+## Your Consent
+
+By using Air Canvas, you consent to:
+- Camera usage for gesture detection (local processing only)
+- Local storage of your drawings on your device
+- This Privacy Policy
+
+## Contact Information
+
+For privacy questions or concerns:
+- Review this policy carefully
+- Contact through app store listing
+- Submit feedback through official channels
+
+## Transparency Commitment
+
+We believe in complete transparency:
+- This policy accurately reflects our practices
+- We have no hidden data collection
+- Open to questions and clarifications
+- Committed to user privacy
+
+## Technical Details
+
+### Data Flow:
+1. Camera captures video → 2. MediaPipe processes locally → 3. Gestures detected → 4. Drawing created → 5. Saved to device storage
+
+### No External Communication:
+- No internet connection required
+- No API calls to external servers
+- No telemetry or diagnostics sent
+- Completely offline functionality
+
+## Compliance
+
+Air Canvas complies with:
+- **GDPR** (EU): No personal data collected
+- **CCPA** (California): No personal information sold
+- **COPPA** (Children): No data from children
+- **PIPEDA** (Canada): Privacy by design
+- **App Store Guidelines**: Privacy requirements met
+
+---
+
+## Summary
+
+**Air Canvas is designed with privacy as a core principle:**
+- 🔒 All processing happens on your device
+- 📷 Camera used for gestures only (not recorded)
+- 💾 Drawings stored locally only
+- 🚫 Zero data collection or transmission
+- ✨ Complete privacy and control
+
+**Questions?** This policy is designed to be clear and comprehensive. If you have concerns, please reach out through official channels.
+
+---
+
+**Last Updated: January 29, 2026**
+
+**By using Air Canvas, you acknowledge that you have read and understood this Privacy Policy.**
