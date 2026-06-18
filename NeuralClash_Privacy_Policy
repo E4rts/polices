@@ -1,0 +1,36 @@
+**Effective Date: June 15, 2026**
+
+Welcome to NeuralClash ("the Game"), a mobile game developed for entertainment purposes. Your privacy is important to us. This Privacy Policy explains how we collect, use, and safeguard information when you play the Game.
+
+---
+
+## 1. Information Collection and Use
+
+### Local Device Data
+We store game session statistics, current scores, and assist inventory charges directly on your device using `SharedPreferences`. This data remains locally on your device and is not transmitted to our servers.
+
+### Third-Party Services
+The Game utilizes third-party services that may collect information used to identify you:
+- **Google AdMob**: Used to display rewarded advertisements. AdMob may collect and use advertising identifiers (such as Android Advertising ID or iOS IDFA) to personalize ads and analyze traffic.
+- **AI Verdict System (OpenRouter/DeepSeek)**: When you submit responses for AI evaluation, the text of your response is sent securely to the AI API to generate the judge's verdict. No personal identifiers are attached to these submissions.
+
+---
+
+## 2. Data Security
+We are committed to securing your local game data. However, please note that security of your device is your responsibility. Unauthorized modification, device rooting, or third-party tampering may compromise game data integrity.
+
+---
+
+## 3. Children's Privacy
+Our Game does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take necessary actions.
+
+---
+
+## 4. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted on this page.
+
+---
+
+## 5. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+**h.benyahia.snv@lagh-univ.dz**
